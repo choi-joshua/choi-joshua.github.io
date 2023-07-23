@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    background-color: #333333;
+}
+
+h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #757575;
+}
+
+#title {
+    position: relative;
+    margin: auto;
+    
+    text-align: center;
+}
+
+#words {
+    font-family: "Merriweather", serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 150%;
+
+    width: 75%;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+}
