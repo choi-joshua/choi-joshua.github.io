@@ -80,11 +80,12 @@ body {
 
     display: flex;
     flex-direction: column;
+    margin: auto;
 }
 
 #content {
     position: relative;
-    width: 100%;
+    width: auto;
     height: auto;
 
     display: flex;
